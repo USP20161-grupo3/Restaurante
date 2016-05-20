@@ -9,8 +9,6 @@ session_destroy();
 session_start();
 $_SESSION['intentos']=0;
 ?>
-
-
 <html>
     <head>
         <meta charset="UTF-8">
